@@ -59,7 +59,7 @@ def get_assets():
 create_database()
 
 # Add an asset
-add_asset('SN12345', 'Laptop', 'Electronics', 1200.00, 'Doe, John', 'active')
+add_asset('SN12345', 'Laptop', 'Electronics', 1200.00, '98, rich98', 'active')
 
 # Get all assets
 assets = get_assets()
